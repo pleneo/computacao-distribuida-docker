@@ -1,0 +1,13 @@
+# Dados gerados pelos contêineres
+html/
+db_data/
+.env
+
+# Arquivos compactados e documentos
+*.zip
+*.pdf
+
+# Editores e SO
+.idea/
+.vscode/
+.DS_Store
